@@ -1,6 +1,6 @@
 # Biki Karmakar
 
-AI Engineer | Backend Developer | Data Engineer
+SOFTWARE ENGINEER (FULL-STACK)
 
 ---
 
